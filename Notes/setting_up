@@ -1,0 +1,8 @@
+7 minute set up for those with limited experience with GitHub or PyCharm:
+https://www.youtube.com/watch?v=a8MckiothGc
+
+pip install -r AudioScraper/requirements.txt
+
+playing with audioscraper: https://github.com/aryamansriram/AudioScraper
+
+youtube-dl -ict --yes-playlist --extract-audio --audio-format mp3 --audio-quality 0 https://www.youtube.com/playlist?list=PLS3sORxAFBAJM1He0gXkOOCDOXsqFFskC

@@ -1,14 +1,11 @@
 # speech-project
 speech analysis pipeline project
-look - i made a readme file
-This is an edit made in pyCharm
+look - I made a readme file from PyCharm!
+
+Please ignore the mess - this is going to be scrappy!
+
+Introduction:
+- This is the GitHub page for the speech-analysis project
+- The notes folder is just for keeping our thinking on how each thing works/things we try/tech et al
 
 
-7 minute set up for those with limited experience with GitHub or PyCharm:
-https://www.youtube.com/watch?v=a8MckiothGc
-
-
-pip install -r AudioScraper/requirements.txt
-
-ERROR: Could not find a version that satisfies the requirement PyQt5==5.15.2 (from -r AudioScraper/requirements.txt (line 9)) (from versions: none)
-ERROR: No matching distribution found for PyQt5==5.15.2 (from -r AudioScraper/requirements.txt (line 9))
