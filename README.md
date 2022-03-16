@@ -2,6 +2,8 @@
 speech analysis pipeline project
 look - I made a readme file from PyCharm!
 
+Please ignore the mess - this is going to be scrappy!
+
 Introduction:
 - This is the GitHub page for the speech-analysis project
 - The notes folder is just for keeping our thinking on how each thing works/things we try/tech et al
