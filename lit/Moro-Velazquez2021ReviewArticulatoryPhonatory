@@ -1,14 +1,100 @@
 
 https://www.sciencedirect.com/science/article/abs/pii/S174680942100015X
 
-In particular hypokinetic dysarthria (marked by a reduction of loudness and articulation amplitude). Slow speech -> fast rush.
+In particular hypokinetic dysarthria (marked by a reduction of loudness and
+articulation amplitude). Slow speech -> fast rush.
 90% PD patients have dysarthria - median latency 7 years.
 dysphonia (65.5%) articulatory impairment (38.5%)
 
 Four main groups of study: phonatory, articulatory, prosodic, cofnitive-linguistic.
 
 
-They discarded works analysing the prosodic or linguistic aspets exclusively. (also those that include pharmacological intervention - this could be relevant if currently under treatment)
+They discarded works analysing the prosodic or linguistic aspets exclusively.
+(also those that include pharmacological intervention - this could be relevant
+if currently under treatment)
 
-The review inlcludes a list of the acoustic features that were identified - along with some representative studies using them and a visualisation of their discriminant properties in the Neurovoz corpus [27]
+The review inlcludes a list of the acoustic features that were
+identified - along with some representative studies using them and a
+visualisation of their discriminant properties in the Neurovoz corpus [27]
+
+Phonatory - usually from a sustained vowel
+
+acoustic meaasures can be directly obtained using available software and
+libraries such ass Muultidimensional Voice Program (MDVP), Praat or OpenSMILE.
+
+HNR and NHR are popular (and jitter and shimmer)
+
+There is a list of other features and potentially interesting things to
+look at - second para right column page 3
+
+Longitudinal study [49] and [50] <- czech!
+
+impact of gender
+
+In
+another subsequent study employing a corpus with age-matched groups
+[32], the authors report higher fundamental frequency and fundamental
+frequency variability in patients (20 participants) than in controls (20
+participants) and low correlation between this feature and symptom
+assessment.
+
+D2 and PPE (new features)
+
+MFCCs
+cepstral features
+cepstral peak prominance (CPP)
+HRF (harmonic richness factor)
+
+4. Articulatory aspects
+connected speech: voice onset, voice termination, voice breaks.
+
+incomplete contacct of asticulators for plosive stops and partial
+contrictions for fridccatives.
+
+spirantization effects
+
+segment duration and
+
+This is
+contradictory with the findings exposed in [13,81–84] where a strong
+influence of the disease is found in certain consonants.
+
+The reason is that hypokinetic dysarthria can be
+considered a multidimensional impairment [22] and its manifestations
+may depend on the individual and PD sub-type (postural instability/gait
+difficulty and tremor-dominant phenotypes, for instance) [92].
+
+
+For instance, the study [93] analyzes segment duration and speech error
+rates in 15 patients with neurological disorders (8 of them with PD) and
+15 controls during the production of syllable sequences, ranging from
+low to high complexity. T
+
+esults suggest that
+patients present significantly longer vowel duration
+
+
+articles in the literature measure the speech formants and
+their evolution to assess PD. Some of these approaches employ VSA-
+related features, that are calculated using the formants from vowels
+extracted from connected speech [101–105] instead of using sustained
+vowels as a acoustic material.
+
+
+
+**The argument for monologues:**
+For instance, [104] presents a comparison of PD detection techniques
+using only vowel segments extracted from sustained vowels, sentence
+repetitions, reading passages, and monologues of 20 untreated patients
+and 15 male control speakers. Significant differences between the two
+groups are obtained for tVSA and Vowel Articulation Index (VAI) fea-
+tures, which are lower in patients than in controls. Compared to other
+studies that use only sustained vowels, as [42], this study reports a more
+significant separability between groups when using vowels from
+monologues.
+
+
+
+
+
 
