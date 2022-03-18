@@ -146,4 +146,40 @@ correlation (0.78) with the UPDRS speech symptom severity rating
 MFCC vs PLKP coefficients.
 
 
+long list of features and an approximate suggestion of their significance
+
+supervised speech tasks versus unsupervised speech tasks
+spontaneous speech versus monologue?
+
+ne advantage of unsupervised speech tasks is
+that they also allow us evaluating cognitive aspects [162,163].
+
+
+In the same manner, the approaches can be language-dependent or
+independent. Usually, phonatory approaches working with sustained
+vowels could be considered language-independent, although we cannot
+always assume that a vowel represented by a grapheme has the same
+associated sound in different languages
+
+it lists cross-language studies
+
+NB doesnt compare against other diseases
+
+especially motor-neuron/neuromuscular
+
+n contrast, most of the studies analyzing
+noise features on parkinsonian voices indicate a more definite rela-
+tionship between noise and PD’s presence or evolution [38,39,64,41,40,
+48,50,49,42].
+
+
+Other studies suggest that obstruent consonants, the consonants
+requiring the greatest narrowing or closure during articulation –plosives
+and fricatives, especially velars (such as in “green”)–, are the most
+affected by PD [81–85,63].
+
+VSA and other features obtained from the vowels in connected speech
+[101–105],
+
+
 
