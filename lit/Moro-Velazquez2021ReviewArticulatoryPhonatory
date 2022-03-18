@@ -93,8 +93,57 @@ studies that use only sustained vowels, as [42], this study reports a more
 significant separability between groups when using vowels from
 monologues.
 
+In this sense, the VSA extracted from articulated vowels
+has been found to provide significant differences between speakers with
+and without PD [105,104,101,102,49,106,103,107].
+
+Formant Centralisation ratio (FCR) - not sensitivite to gender
+
+eports lower tVSA in patients, especially in males, although
+results indicate that the use of the VAI [106],
 
 
+4.4 Automatic detection and assessment
+
+tterances were subdivided automatically into syllabic segmwents
+
+
+Some of these approaches employ VSA-
+related features, that are calculated using the formants from vowels
+extracted from connected speech [101–105]
+
+
+or instance, [104] presents a comparison of PD detection techniques
+using only vowel segments extracted from sustained vowels, sentence
+repetitions, reading passages, and monologues of 20 untreated patients
+and 15 male control speakers. Significant differences between the two
+groups are obtained for tVSA and Vowel Articulation Index (VAI) fea-
+tures, which are lower in patients than in controls. Compared to other
+studies that use only sustained vowels, as [42], this study reports a more
+significant separability between groups when using vowels from
+monologues. In this sense, the VSA extracted from articulated vowels
+has been found to provide significant differences between speakers with
+and without PD [105,104,101,102,49,106,103,107
+
+
+Formant Centralisation Ratio (FCR) - recommends
+
+
+BBE (Band Bark Energies)
+
+
+ther hand, from all the analyzed articles, a group is focused
+on the automatic estimation of severity indices, such as UPDRS
+[115–125]. F
+
+
+For instance, the study [128] uses the Chi-Squared Dis-
+tance (CSD) coefficient, reporting that this feature can provide a better
+correlation (0.78) with the UPDRS speech symptom severity rating
+(UPDRS-S) than other traditional measurements such as HNR or MFCC
+
+
+MFCC vs PLKP coefficients.
 
 
 
