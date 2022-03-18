@@ -146,4 +146,58 @@ correlation (0.78) with the UPDRS speech symptom severity rating
 MFCC vs PLKP coefficients.
 
 
+long list of features and an approximate suggestion of their significance
 
+supervised speech tasks versus unsupervised speech tasks
+spontaneous speech versus monologue?
+
+ne advantage of unsupervised speech tasks is
+that they also allow us evaluating cognitive aspects [162,163].
+
+
+In the same manner, the approaches can be language-dependent or
+independent. Usually, phonatory approaches working with sustained
+vowels could be considered language-independent, although we cannot
+always assume that a vowel represented by a grapheme has the same
+associated sound in different languages
+
+it lists cross-language studies
+
+NB doesnt compare against other diseases
+
+especially motor-neuron/neuromuscular
+
+n contrast, most of the studies analyzing
+noise features on parkinsonian voices indicate a more definite rela-
+tionship between noise and PD’s presence or evolution [38,39,64,41,40,
+48,50,49,42].
+
+
+Other studies suggest that obstruent consonants, the consonants
+requiring the greatest narrowing or closure during articulation –plosives
+and fricatives, especially velars (such as in “green”)–, are the most
+affected by PD [81–85,63].
+
+VSA and other features obtained from the vowels in connected speech
+[101–105],
+
+
+simpler than those used for articulatory analyses, including less vari-
+ability and a smaller amount of kinetic information. Moreover, meth-
+odologies using connected speech can indirectly characterize certain
+phonatory aspects, since connected speech also contains vowels and
+sonorant segments
+
+
+libraries and software such as the
+Python-based standalone software OpenSmile3 [30], Python-based li-
+brary Surfboard4 [200], standalone software Praat5 [29] or Parsel-
+mouth-Praat6 that is a library that allows researchers using the Praat
+algorithms with a Python interface [206]. Others can be extracted from
+libraries specialized in voice pathology detection such as AVCA7 [58] or
+DARTH-VAT8 [59,66,207], both in Matlab.Nevertheless, in [139], the
+authors present an open-source software for speech analysis, namely
+Neurospeech,9 that permits calculating and analyzing several prosodic,
+phonatory, and articulatory features. This package is grounded on the
+contributions of many different authors, although some are not
+acknowledged
