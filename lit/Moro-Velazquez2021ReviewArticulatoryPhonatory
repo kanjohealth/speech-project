@@ -182,4 +182,22 @@ VSA and other features obtained from the vowels in connected speech
 [101–105],
 
 
+simpler than those used for articulatory analyses, including less vari-
+ability and a smaller amount of kinetic information. Moreover, meth-
+odologies using connected speech can indirectly characterize certain
+phonatory aspects, since connected speech also contains vowels and
+sonorant segments
 
+
+libraries and software such as the
+Python-based standalone software OpenSmile3 [30], Python-based li-
+brary Surfboard4 [200], standalone software Praat5 [29] or Parsel-
+mouth-Praat6 that is a library that allows researchers using the Praat
+algorithms with a Python interface [206]. Others can be extracted from
+libraries specialized in voice pathology detection such as AVCA7 [58] or
+DARTH-VAT8 [59,66,207], both in Matlab.Nevertheless, in [139], the
+authors present an open-source software for speech analysis, namely
+Neurospeech,9 that permits calculating and analyzing several prosodic,
+phonatory, and articulatory features. This package is grounded on the
+contributions of many different authors, although some are not
+acknowledged
