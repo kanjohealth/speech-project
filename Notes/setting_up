@@ -3,6 +3,13 @@ https://www.youtube.com/watch?v=a8MckiothGc
 
 pip install -r AudioScraper/requirements.txt
 
+activate venv: source venv/bin/activate
+using PyCharm - set interpreter as venv (Python 3.7 at the moment)
+
+pip3 install librosa
+(have added requirements.txt to top level folder using pip3 freeze > requirements.txt)
+notes on requirements: https://boscacci.medium.com/why-and-how-to-make-a-requirements-txt-f329c685181e
+
 playing with audioscraper: https://github.com/aryamansriram/AudioScraper
 
 youtube-dl -ict --yes-playlist --extract-audio --audio-format mp3 --audio-quality 0 https://www.youtube.com/playlist?list=PLS3sORxAFBAJM1He0gXkOOCDOXsqFFskC
