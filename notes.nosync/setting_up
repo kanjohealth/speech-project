@@ -13,3 +13,7 @@ notes on requirements: https://boscacci.medium.com/why-and-how-to-make-a-require
 playing with audioscraper: https://github.com/aryamansriram/AudioScraper
 
 youtube-dl -ict --yes-playlist --extract-audio --audio-format mp3 --audio-quality 0 https://www.youtube.com/playlist?list=PLS3sORxAFBAJM1He0gXkOOCDOXsqFFskC
+
+test only commit to newwork 1
+
+
