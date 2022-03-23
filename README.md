@@ -8,6 +8,7 @@ Introduction:
 - The notes folder is just for keeping our thinking on how each thing works/things we try/tech et al
 - The lit folder holds papers and notes on those papers for anything relevant. This will evolve to include subfolders for each topic.
 - I have put together a mural for ideas/pipeline discussion
+- Intro into how to download samples is in notes > new_samples
 
 Mural:
 - https://app.mural.co/t/kanjo9413/m/kanjo9413/1638445890497/681445e87569a145b6c3e60501f295133215e966?sender=u6e7730e30b16f535b5bf9540
