@@ -1,4 +1,5 @@
 # actual lines to run in terminal have '>' before them
+# samples should download with repo - but if not, can extract yourself with the following instructions
 
 in terminal in venv run the following to install youtube-dl:
 
