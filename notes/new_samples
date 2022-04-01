@@ -15,3 +15,6 @@ run this in terminal in the raw_samples directory:
 > youtube-dl -x --audio-format wav --audio-quality 0 --output "%(upload_date)s"_"%(id)s.%(ext)s" -i PLS3sORxAFBAJM1He0gXkOOCDOXsqFFskC
 
 (translated: format wav, location here, highest audio quality, output name is UPLOADDATE_VIDEOID, playlist ID. - UPLOADDATE is in format YYYYMMDD)
+
+
+
